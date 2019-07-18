@@ -11,7 +11,7 @@ Ce programme va récupérer toutes les devises existantes sur https://coinmarket
 
 mairiechristmas.rb
 
-Ce programme va récupérer le noms de tous les noms des villes ayant une mairie dans le val d'oise et y associer leurs adresses mail
+Ce programme va récupérer le nom de tous les noms des villes ayant une mairie dans le val d'oise et y associer leurs adresses mail
 
 -------------------------------------------------------------------------------
 
